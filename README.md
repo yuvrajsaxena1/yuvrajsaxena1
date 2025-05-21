@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Saxena</h1>
 <h3 align="center">From idea💡 to impact📈, commit💻 by commit⌨.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajsaxena1&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajsaxena1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrajsaxena1" alt="yuvrajsaxena1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajsaxena1&label=Profile%20views&color=brightgreen&style=flat" alt="yuvrajsaxena1" /> </p>
 
 - 💬 Ask me about **Java, Python, C/C++, ML**
 
